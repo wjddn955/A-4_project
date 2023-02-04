@@ -28,7 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '*',
-    #"ec2-35-158-118-7.eu-central-1.compute.amazonaws.com",
+    "ec2-35-158-118-7.eu-central-1.compute.amazonaws.com",
 ]
 
 
